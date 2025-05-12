@@ -6,5 +6,9 @@
   {
     "nomor": "ha",
     "status": "active"
+  },
+  {
+    "nomor": "body {   font-family: 'Poppins', sans-serif;   background: #f9f9f9;   margin: 0;   padding: 0;   display: flex;   justify-content: center;   align-items: center;   min-height: 100vh; }  .container {   background: #fff;   padding: 30px 25px;   border-radius: 20px;   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);   width: 90%;   max-width: 400px;   margin-top: 60px;   text-align: center; }  h1 {   color: #6c2bd9;   font-size: 24px;   margin-bottom: 20px; }  input[type=\"text\"], input[type=\"password\"] {   width: 100%;   padding: 12px 15px;   margin: 10px 0;   border: 2px solid #e0e0e0;   border-radius: 10px;   font-size: 14px;   box-sizing: border-box; }  button {   width: 100%;   background-color: #8b3dff;   color: white;   padding: 12px 0;   margin-top: 10px;   border: none;   border-radius: 10px;   font-size: 14px;   font-weight: bold;   cursor: pointer;   transition: background-color 0.3s; }  button:hover {   background-color: #7329d1; }  .table-container {   margin-top: 20px;   overflow-x: auto; }  table {   width: 100%;   border-collapse: collapse;   margin-top: 10px; }  th, td {   padding: 10px;   text-align: center;   border-bottom: 1px solid #f0f0f0;   font-size: 14px; }  th {   background-color: #f7f4fd;   color: #6c2bd9; }  .success {   color: green;   margin-top: 5px; }  .error {   color: red;   margin-top: 10px; }",
+    "status": "active"
   }
 ]
